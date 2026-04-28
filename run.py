@@ -7,7 +7,7 @@ import requests
 from discord.ui import View, Select, Button
 import asyncio
 
-API_KEY = 'AIzaSyDN9uGo32uuTxAR2Upw4xalVw4mciPmYkU'
+API_KEY = ''
 API_URL = f'https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze?key={API_KEY}'
 
 '''
